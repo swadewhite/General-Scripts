@@ -1,0 +1,5 @@
+192.168.1.21:/mnt/FourK_Movies /mnt/4K_Movies nfs rw,hard,_netdev,noatime,nolock,bg,intr,tcp,actimeo=1800 0 0
+192.168.1.21:/mnt/Music /mnt/Music nfs rw,hard,_netdev,noatime,nolock,bg,intr,tcp,actimeo=1800 0 0
+192.168.1.21:/mnt/PlexMedia /mnt/PlexMedia nfs rw,hard,_netdev,noatime,nolock,bg,intr,tcp,actimeo=1800 0 0
+192.168.1.21:/mnt/NVMe_SSD /mnt/NVMe_SSD nfs rw,hard,_netdev,noatime,nolock,bg,intr,tcp,actimeo=1800 0 0
+192.168.1.21:/mnt/Backups /mnt/Backups nfs rw,hard,_netdev,noatime,nolock,bg,intr,tcp,actimeo=1800 0 0
