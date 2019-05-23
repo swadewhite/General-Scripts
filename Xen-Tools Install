@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo mkdir /mnt/dvd
+sudo mount /dev/sr0 /mnt/dvd
+cd /mnt/dvd/Linux
+sudo ./install.sh
